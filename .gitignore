@@ -1,0 +1,8 @@
+/tmp/
+!/tmp/no-cache-data/
+/.idea/
+/temp/*
+*.pyc
+*.[oa]
+/t?mp/*
+*~
